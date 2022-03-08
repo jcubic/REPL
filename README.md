@@ -1,6 +1,6 @@
 # REPL
 
-![REPL Logotype](https://github.com/jcubic/jcubic/blob/master/.github/banner.png?raw=true)
+![REPL Logotype](https://github.com/jcubic/REPL/blob/master/.github/banner.png?raw=true)
 
 [REPL Bookmarklets for different programming languages](https://github.com/jcubic/REPL)
 
