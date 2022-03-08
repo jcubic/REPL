@@ -10,6 +10,7 @@
 * [ ] SQL ([AlaSQL](https://codepen.io/jcubic/pen/dVBaRm))
 * [ ] PHP ([Uniter](https://codepen.io/jcubic/pen/VGYBVj))
 * [ ] Python (Brython/[Trypython](https://trypython.jcubic.pl/))
+* [ ] Ruby (test [Opal](https://github.com/opal/opal))
 
 ## License
 
