@@ -11,6 +11,7 @@
 * [ ] PHP ([Uniter](https://codepen.io/jcubic/pen/VGYBVj))
 * [ ] Python (Brython/[Trypython](https://trypython.jcubic.pl/))
 * [ ] Ruby (test [Opal](https://github.com/opal/opal))
+* [ ] Check [List of languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
 
 ## License
 
